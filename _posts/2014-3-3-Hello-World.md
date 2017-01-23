@@ -1,9 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: Week 1 @ Metis Bootcamp!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Wow! Lot to take in the first week, which was 4 days only. Let's start off with summarizing the big topics we covered:
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Seaborn
+5. More pandas through project work
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
